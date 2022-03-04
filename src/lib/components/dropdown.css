@@ -1,0 +1,19 @@
+.dropdown {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.label-dropdown-state {
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.dropdown-state {
+  height: 40px;
+  border-radius: 5px;
+  border: none;
+}
+
